@@ -1,0 +1,9 @@
+{
+  "name": "alexa-example",
+  "description": "Example alexa skill",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::124223853155:role/dog-whisperer_lambda_function",
+  "environment": {},
+  "defaultEnvironment": "dev"
+}

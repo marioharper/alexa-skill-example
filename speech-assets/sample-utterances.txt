@@ -1,0 +1,10 @@
+OneshotGetPersonsTeam What is {Person} team
+OneshotGetPersonsTeam What's {Person} team
+OneshotGetPersonsTeam What team is {Person} on
+
+OneshotGetTeamMembers Who is on the {Team} team
+OneshotGetTeamMembers Who's on the {Team} team
+OneshotGetTeamMembers Who all is on the {Team} team
+OneshotGetTeamMembers Who is on {Team} 
+OneshotGetTeamMembers Who's on {Team} 
+OneshotGetTeamMembers Who all is on {Team} 

@@ -1,0 +1,31 @@
+{
+  "intents": [
+    {
+      "intent": "OneshotGetPersonsTeam",
+      "slots": [
+        {
+          "name": "Person",
+          "type": "PEOPLE_NAMES"
+        }
+      ]
+    },
+    {
+      "intent": "OneshotGetTeamMembers",
+      "slots": [
+        {
+          "name": "Team",
+          "type": "TEAM_NAMES"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
